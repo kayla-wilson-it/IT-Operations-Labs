@@ -1,26 +1,49 @@
-# IT Operations & Systems Labs
+# IT, HRIS & Technical Support Labs
 
-## About Me
-I am an IT graduate currently pursuing a Master’s degree in IT Management. This repository showcases hands-on labs focused on IT operations, systems administration, and business-focused technical problem solving.
-
-## What This Repository Contains
-This repository includes practical, entry-level labs designed to reflect real-world IT environments rather than theoretical coursework.
-
-## Core Focus Areas
-- IT Operations & Support
-- Systems Administration
-- Identity & Access Management
-- Ticketing & Process Documentation
-- Cloud Infrastructure Basics
-
-## Tools & Technologies
-- Windows Server
-- Active Directory
-- Ticketing Systems
-- Virtual Machines
-- Cloud Platforms (AWS/Azure)
+This repository contains hands-on labs and exercises focused on IT support, Windows administration, Active Directory, and HRIS concepts.  
+These labs were completed through structured training and guided practice to build real-world, job-relevant technical skills.
 
 ## Purpose
-The purpose of this repository is to demonstrate applied technical skills, documentation ability, and operational thinking relevant to entry-level IT Analyst, Systems Analyst, and IT Operations roles.
-# IT-Operations-Labs
-Hands-on IT operations, systems administration, and cloud labs focused on real-world business scenarios.
+The goal of this repository is to demonstrate practical experience with:
+- IT support workflows
+- User account and access management
+- Windows and Active Directory fundamentals
+- HRIS and employee lifecycle concepts
+- Basic reporting and troubleshooting
+
+Each lab includes a brief explanation of the objective, tools used, steps performed, and key takeaways.
+
+## Tools & Technologies
+- Windows OS
+- Active Directory
+- Group Policy
+- HRIS concepts (onboarding, access provisioning)
+- Ticketing & troubleshooting workflows
+- SQL (basic reporting – where applicable)
+
+## Lab Categories
+- **Active Directory**
+  - User and group management
+  - Organizational Units (OUs)
+  - Group Policy basics
+
+- **IT Support**
+  - Account troubleshooting
+  - Common technical issues
+  - Support workflows and documentation
+
+- **HRIS**
+  - Employee onboarding workflows
+  - Role-based access concepts
+  - HR system fundamentals
+
+- **Reporting & Analysis**
+  - Basic SQL queries
+  - Simple data analysis for business needs
+
+## In Progress
+This repository is actively being updated as additional labs are completed and skills are expanded.
+
+---
+
+📌 *These labs are intended to showcase applied learning and readiness for entry-level IT support, HRIS analyst, and technical support roles.*
