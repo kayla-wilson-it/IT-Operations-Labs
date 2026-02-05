@@ -18,6 +18,13 @@ To create a new user account in Active Directory and assign the user to appropri
 ## Outcome
 The user account was successfully created and assigned to security groups, allowing appropriate access based on role.
 
+## Screenshots
+
+![User created in Active Directory](screenshots/user-created.png)
+![User group membership](screenshots/group-membership.png)
+![User account properties](screenshots/user-properties.png)
+
+
 ## What I Learned
 - How user accounts are created and managed in Active Directory
 - The importance of security groups for access control
